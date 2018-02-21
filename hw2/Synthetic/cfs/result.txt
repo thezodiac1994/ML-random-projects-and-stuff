@@ -1,0 +1,14 @@
+M = 6 lambda = 5e-05 RMSE = 1.00446901755
+M = 6 lambda = 0.005 RMSE = 1.01930431164
+M = 6 lambda = 0.05 RMSE = 1.07561490878
+M = 6 lambda = 0.5 RMSE = 1.0951576188
+
+M = 16 lambda = 5e-05 RMSE = 0.862886361467
+M = 16 lambda = 0.0005 RMSE = 0.867656167931
+M = 16 lambda = 0.05 RMSE = 1.03012805499
+M = 16 lambda = 0.5 RMSE = 1.08497607961
+
+M = 32 lambda = 5e-05 RMSE = 0.860428861814
+M = 32 lambda = 0.0005 RMSE = 0.861013081583
+M = 32 lambda = 0.5 RMSE = 1.08374451554
+M = 32 lambda = 0.05 RMSE = 1.00528843159

@@ -1,0 +1,32 @@
+M = 6 epochs = 100 batch size = 550  learning rate = 0.0001 lambda = 1 RMSE = 0.804279873461
+M = 6 epochs = 100 batch size = 550  learning rate = 0.0001 lambda = 0.1 RMSE = 0.804283178063
+M = 6 epochs = 100 batch size = 550  learning rate = 0.0001 lambda = 0.01 RMSE = 0.804283509712
+M = 6 epochs = 100 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.804283542889
+
+
+M = 6 epochs = 50 batch size = 550  learning rate = 0.1 lambda = 0.001 RMSE = 1.04804121381
+M = 6 epochs = 50 batch size = 550  learning rate = 0.01 lambda = 0.001 RMSE = 0.814509748507
+M = 6 epochs = 50 batch size = 550  learning rate = 0.001 lambda = 0.001 RMSE = 0.80483319216
+*M = 6 epochs = 50 batch size = 250  learning rate = 0.001 lambda = 0.001 RMSE = 0.804007632247
+*M = 6 epochs = 50 batch size = 650  learning rate = 0.001 lambda = 0.001 RMSE = 0.819116179594
+*M = 6 epochs = 50 batch size = 1000  learning rate = 0.001 lambda = 0.001 RMSE = 0.804089663689
+M = 6 epochs = 50 batch size = 350  learning rate = 0.001 lambda = 0.001 RMSE = 0.804019004359
+
+
+M = 6 epochs = 10 batch size = 550  learning rate = 0.001 lambda = 0.001 RMSE = 0.804777284889
+M = 6 epochs = 30 batch size = 550  learning rate = 0.001 lambda = 0.001 RMSE = 0.804833182871
+M = 6 epochs = 60 batch size = 550  learning rate = 0.001 lambda = 0.001 RMSE = 0.804833196607
+M = 6 epochs = 10 batch size = 550  learning rate = 0.0001 lambda = 0.001
+
+M = 6 epochs = 10 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.837362075296
+M = 6 epochs = 30 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.805956159876
+M = 6 epochs = 60 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.80405824625
+M = 6 epochs = 20 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.812821719186
+
+
+
+M = 6 epochs = 40 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.804280770541
+M = 16 epochs = 40 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.804353135326
+M = 31 epochs = 40 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.804490169345
+*M = 51 epochs = 40 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.842653016217
+M = 41 epochs = 40 batch size = 550  learning rate = 0.0001 lambda = 0.001 RMSE = 0.804611550064
