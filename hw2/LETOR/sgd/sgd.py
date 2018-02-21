@@ -5,13 +5,9 @@ import os
 myfile = open("result1.txt", "a")
 def sgd(learning_rate,minibatch_size,num_epochs,L2_lambda,design_matrix,output_data):
     N, _ = design_matrix.shape
-    # You can try different mini-batch size size
     # Using minibatch_size = N is equivalent to standard gradient descent
     # Using minibatch_size = 1 is equivalent to stochastic gradient descent
-    # In this case, minibatch_size = N is better
     weights = np.zeros([1, len(design_matrix[0])])
-    # The more epochs the higher training accuracy. When set to 1000000,
-    # weights will be very close to closed_form_weights. But this is unnecessary
     lastError = 100;
     for epoch in range(num_epochs):
         for i in range(int(N / minibatch_size)):
